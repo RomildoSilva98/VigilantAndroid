@@ -15,7 +15,7 @@ Baixe ou copie o código desse script em um arquivo .py
 Para criar a lista de IPs:
 $sh listarips.sh
 executar o script:
-$python vigilant.py
+$python main.py
 
 
 
@@ -30,4 +30,4 @@ Download or copy the code for this script into a .py file
 To create the IP list:
 $ sh listarips.sh
 run the script:
-$ python vigilant.py
+$ python main.py
